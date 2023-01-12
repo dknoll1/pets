@@ -1,0 +1,16 @@
+{
+  "name": "dknoll/328/pets",
+  "authors": [
+    {
+      "name": "Daniel Knoll",
+      "email": "knollmdan@gmail.com"
+    },
+    {
+      "name": "Jerome Shadkam",
+      "email": "shadkam.jerome@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
