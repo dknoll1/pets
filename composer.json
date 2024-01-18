@@ -1,0 +1,13 @@
+{
+  "name": "dknoll/328/pets",
+  "description": "Pets Fat-Free MVC project",
+  "authors": [
+    {
+      "name": "Daniel Knoll",
+      "email": "knollmdan@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
